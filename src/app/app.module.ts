@@ -6,7 +6,7 @@ import { AppComponent }  from './app.component';
 import { HeroDetailComponent } from './hero-detail.component';
 
 @NgModule({
-  imports:      [
+  imports: [
     BrowserModule,
     FormsModule
     ],
